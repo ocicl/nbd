@@ -2,8 +2,10 @@
 
 Network Block Device server library.
 
-|---------+------------------------------------------|
-| source  | git:https://gitlab.com/ralt/nbd.git      |
-| commit  | fed260946155cc3a22f91ba7398c27fec4c4de79 |
-| systems | nbd                                      |
-|---------+------------------------------------------|
+
+|---------+-------------------------------------|
+| source  | git:https://gitlab.com/ralt/nbd.git |
+| commit  | fed2609                             |
+| systems | nbd                                 |
+|---------+-------------------------------------|
+----------------------|
